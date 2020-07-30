@@ -1,2 +1,2 @@
-# chamadam.gitbhub.io
+# chamadam.github.io
 Wandlab Blog
